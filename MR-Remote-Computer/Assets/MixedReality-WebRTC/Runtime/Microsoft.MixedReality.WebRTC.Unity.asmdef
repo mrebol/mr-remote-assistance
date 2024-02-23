@@ -1,0 +1,15 @@
+{
+    "name": "Microsoft.MixedReality.WebRTC.Unity",
+    "references": [
+        "GUID:30286691ab4edd6499e54928a32e3227"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
