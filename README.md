@@ -28,7 +28,7 @@ The work was supported by National Science Foundation grant no. 2026505 and 2026
 
 ## Resources
 + [Mixed Reality WebRTC](https://github.com/microsoft/MixedReality-WebRTC)
-+ Nuget package: [WebSocketShart-netstandard](https://www.nuget.org/packages/WebSocketSharp-netstandard)
++ Nuget package: [WebSocketSharp-netstandard](https://www.nuget.org/packages/WebSocketSharp-netstandard)
 + [Azure Kinect Sensor SDK](https://github.com/microsoft/Azure-Kinect-Sensor-SDK)
 
 ## Hardware
