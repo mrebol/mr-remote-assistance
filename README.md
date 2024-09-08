@@ -37,7 +37,7 @@ The work was supported by National Science Foundation grant no. 2026505 and 2026
 
 
 ## Preparation
-Download and run the node-dss WebRTC Signaling server: https://github.com/bengreenier/node-dss
+Download and run the [node-dss WebRTC Signaling server](https://github.com/bengreenier/node-dss):
 
 Inside the node-dss folder: `npm install`
 
@@ -55,9 +55,9 @@ Inside the ws-server folder: `node install`
 
 Run the commands inside `unity-shared/link-commands.txt` to create the system links. 
 
-Download and run the Mixed Reality Feature Tool: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool 
+Download and run the [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool ):
 
-Install the following packages:
+Install the following packages for the 2 Unity projects `MR-Local-Hololens` and `MR-Remote-Hololens`:
 + Mixed Reality Toolkit Examples 2.7.3
 + Mixed Reality Toolkit Extensions 2.7.3
 + Mixed Reality Toolkit Foundation 2.7.3
