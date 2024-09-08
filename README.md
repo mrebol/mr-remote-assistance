@@ -57,7 +57,7 @@ Run the commands inside `unity-shared/link-commands.txt` to create the system li
 
 Download and run the [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool ):
 
-Install the following packages for the 2 Unity projects `MR-Local-Hololens` and `MR-Remote-Hololens`:
+Install the following packages in the 2 Unity projects `MR-Local-Hololens` and `MR-Remote-Hololens`:
 + Mixed Reality Toolkit Examples 2.7.3
 + Mixed Reality Toolkit Extensions 2.7.3
 + Mixed Reality Toolkit Foundation 2.7.3
